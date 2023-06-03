@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "7a01aa5b29427b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8614e3ea192f953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19bbf9f8f2922018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "简历编写/简历内容笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24d8d8ea8733f5cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b58971d601c99e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a49967e633be2f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0fdfeca4b399a391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f583850da140138",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcfb410bd36a7d53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8da07da2b40f0582",
+    "type": "split",
+    "children": [
+      {
+        "id": "1089d414e71f0568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d40470c0771ef55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "简历编写/简历内容笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9395ad859eafb623",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "简历编写/简历内容笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7644ddff3a1119cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c39d78368ead080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "简历编写/简历内容笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "19bbf9f8f2922018",
+  "lastOpenFiles": [
+    "简历编写/郭先生-Java .pdf",
+    "项目开发仓库/图书管理系统/03实现分页模糊查询.md",
+    "项目开发仓库/图书管理系统/02主体布局和后台搭建.md",
+    "项目开发仓库/图书管理系统/01项目搭建.md",
+    "Git学习仓库/Git命令大全/Git命令汇总.md",
+    "简历编写/简历内容笔记.md",
+    "Git学习仓库/Git问题总结/使用Git删除文件 更新.gitignore.md",
+    "简历编写",
+    "项目开发仓库/图书管理系统/upload/Pasted image 20230603223932.png",
+    "项目开发仓库/图书管理系统/upload",
+    "Git学习仓库/Git问题总结/upload/Pasted image 20230603220446.png",
+    "Git学习仓库/Git问题总结/upload/Pasted image 20230603220133.png",
+    "Git学习仓库/Git问题总结/upload/Pasted image 20230603215844.png",
+    "Git学习仓库/Git问题总结/upload",
+    "Git学习仓库/Git问题总结",
+    "Git学习仓库/Git命令大全/未命名.md",
+    "项目开发仓库/项目问题总结/删除target文件后运行项目找不到主类.md",
+    "项目开发仓库/项目问题总结/跨域问题.md",
+    "项目开发仓库/项目问题总结/upload/Pasted image 20230603195531.png",
+    "项目开发仓库/项目问题总结/upload/Pasted image 20230603194736.png",
+    "项目开发仓库/项目问题总结/upload/Pasted image 20230603194630.png",
+    "项目开发仓库/项目问题总结/upload",
+    "Git学习仓库/Git命令大全",
+    "Git学习仓库",
+    "Java学习问题总结/原型模式下深浅拷贝.md",
+    "JavaSE部分/01Java语言概述.md",
+    "JavaSE部分/02变量、标识符、保留字、变量.md",
+    "JavaSE部分/03运算符.md",
+    "JavaSE部分/04程序流程控制.md",
+    "JavaSE部分/05数组.md",
+    "JavaSE部分/06面向对象（上）.md",
+    "JavaSE部分/07面向对象（中）.md",
+    "JavaSE部分/08面向对象（下）.md",
+    "JavaSE部分/09异常.md",
+    "JavaSE部分/10多线程.md",
+    "JavaSE部分/18Java8新特性.md",
+    "JavaSE部分/17反射与动态代理.md",
+    "JavaSE部分/16网络编程.md",
+    "JavaSE部分/15IO流.md",
+    "JavaSE部分/14泛型.md",
+    "项目开发仓库/项目问题总结",
+    "项目开发仓库/图书管理系统",
+    "Java学习问题总结/upload/Pasted image 20230602213746.png",
+    "Java学习问题总结/upload/Pasted image 20230602213614.png",
+    "Java学习问题总结/upload/Pasted image 20230602213552.png"
+  ]
+}
