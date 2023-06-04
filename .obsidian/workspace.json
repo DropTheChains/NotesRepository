@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简历编写/简历内容笔记.md",
+                "file": "Git学习仓库/Git命令大全/Git命令汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "简历编写/简历内容笔记.md",
+                "file": "Git学习仓库/Git命令大全/Git命令汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "简历编写/简历内容笔记.md",
+                "file": "Git学习仓库/Git命令大全/Git命令汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "简历编写/简历内容笔记.md"
+                "file": "Git学习仓库/Git命令大全/Git命令汇总.md"
               }
             }
           }
@@ -156,13 +156,15 @@
   },
   "active": "19bbf9f8f2922018",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "README.md",
+    "Git学习仓库/Git问题总结/使用Git删除文件 更新.gitignore.md",
+    "Git学习仓库/Git命令大全/Git命令汇总.md",
+    "简历编写/简历内容笔记.md",
     "简历编写/郭先生-Java .pdf",
     "项目开发仓库/图书管理系统/03实现分页模糊查询.md",
     "项目开发仓库/图书管理系统/02主体布局和后台搭建.md",
     "项目开发仓库/图书管理系统/01项目搭建.md",
-    "Git学习仓库/Git命令大全/Git命令汇总.md",
-    "简历编写/简历内容笔记.md",
-    "Git学习仓库/Git问题总结/使用Git删除文件 更新.gitignore.md",
     "简历编写",
     "项目开发仓库/图书管理系统/upload/Pasted image 20230603223932.png",
     "项目开发仓库/图书管理系统/upload",
@@ -195,7 +197,6 @@
     "JavaSE部分/17反射与动态代理.md",
     "JavaSE部分/16网络编程.md",
     "JavaSE部分/15IO流.md",
-    "JavaSE部分/14泛型.md",
     "项目开发仓库/项目问题总结",
     "项目开发仓库/图书管理系统",
     "Java学习问题总结/upload/Pasted image 20230602213746.png",
