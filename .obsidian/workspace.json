@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux/Linux.md",
-                "mode": "preview",
+                "file": "项目开发仓库/图书管理系统/04用户CURD.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux/Linux.md",
+                "file": "项目开发仓库/图书管理系统/04用户CURD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux/Linux.md",
+                "file": "项目开发仓库/图书管理系统/04用户CURD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux/Linux.md"
+                "file": "项目开发仓库/图书管理系统/04用户CURD.md"
               }
             }
           }
@@ -156,9 +156,12 @@
   },
   "active": "19bbf9f8f2922018",
   "lastOpenFiles": [
-    "面试和简历编写/简历/郭先生-Java .pdf",
-    "Linux/Linux/Linux.md",
+    "项目开发仓库/图书管理系统/03实现分页模糊查询.md",
+    "项目开发仓库/图书管理系统/04用户CURD.md",
+    "项目开发仓库/图书管理系统/02主体布局和后台搭建.md",
     "Git学习仓库/Git命令大全/Git命令汇总.md",
+    "Linux/Linux/Linux.md",
+    "面试和简历编写/简历/郭先生-Java .pdf",
     "未命名.canvas",
     "面试和简历编写/面试题/Java面试题宝典V7.pdf",
     "Linux/Linux",
@@ -167,13 +170,11 @@
     "面试和简历编写/简历",
     "面试和简历编写/面试题",
     "Linux",
-    "项目开发仓库/图书管理系统/03实现分页模糊查询.md",
     "Git学习仓库/Git问题总结/Git 报错 Updates were rejected because the remote contains work that you do.md",
     "Git学习仓库/Git问题总结/使用Git删除文件 更新.gitignore.md",
     "Git学习仓库/Git问题总结/upload/Pasted image 20230604113649.png",
     "新建 文本文档.txt",
     "面试和简历编写/简历/简历内容笔记.md",
-    "项目开发仓库/图书管理系统/02主体布局和后台搭建.md",
     "项目开发仓库/图书管理系统/01项目搭建.md",
     "面试和简历编写",
     "项目开发仓库/图书管理系统/upload/Pasted image 20230603223932.png",
