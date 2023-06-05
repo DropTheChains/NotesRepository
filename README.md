@@ -1,2 +1,5 @@
 # NotesRepository
-Java 学习 笔记 仓库大合集
+个人学 笔记仓库
+
+仓库使用obsidian软件打开
+
